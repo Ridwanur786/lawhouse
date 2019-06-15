@@ -1,0 +1,116 @@
+/*default Background & header*/
+body {
+    background-color: #f5f5f5;
+    font-family: "Raleway", sans-serif;
+}
+header {
+    color: #000;
+    background: linear-gradient( rgba(38, 42, 162, 0.49), rgba(172, 172, 172, 0.66) ),url(../images/hbg4.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+#smedia > div > div > div.col-xs-12.col-sm-8.navbar-left > p > a {
+    color: #fcf8e3;
+    font-style: normal;
+    font-weight: bolder;
+}
+#smedia > div > div > div.col-xs-12.col-sm-8.navbar-left > p > a:hover{
+    color: #5d1a43;
+}
+#smedia > div > div > div.col-sm-4 > a > i {
+    color: #fcf8e3;
+}
+#smedia > div > div > div.col-sm-4 > a > i:hover {
+    color: #5d1a43;
+}
+#smedia > div > div:nth-child(1) {
+    border-bottom: 2px solid #ff3366;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fcf8e3;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: #5d1a43;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #ff3366;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: rgba(169, 50, 110, 0.81);
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #fcf8e3;
+    margin:0;
+}
+.dropdown-menu {
+    background-color: whitesmoke;
+}
+.dropdown-menu  li a:hover {
+    background-color: rgba(10, 10, 39, 0.22);
+    color: rgba(248, 248, 255, 0.13);
+}
+.dropdown-menu li a p
+{
+    margin:10px;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+    background-color: darkred;
+    color: rgba(169, 50, 110, 0.81);
+}
+#main > div > div > div.col-xs-12.col-sm-8.col-md-8.col-lg-8 > div > p.h2 {
+    border-bottom: 2px dotted gray;
+}
+#main > div > div > div.col-xs-12.col-sm-8.col-md-8.col-lg-8 > div > p.h2 a {
+    color: rgba(53, 57, 226, 0.7);
+    text-decoration: none;
+}
+#main > div > div > div.col-xs-12.col-sm-8.col-md-8.col-lg-8 > div > h4 a{color: rgba(41, 106, 80, 0.83);text-decoration: none;}
+#main > div > div > div.col-xs-12.col-sm-8.col-md-8.col-lg-8 > div > p{color: #010605;text-decoration: none;}
+#main > div > div > div.col-xs-12.col-sm-8.col-md-8.col-lg-8 > div > div > div.col-xs-12.col-sm-8.col-md-8.col-lg-8 > p { /* padding-top: 20px; */ }
+#main > div > div > div.col-xs-12.col-sm-4.col-md-4.col-lg-4 > p.h3 {   border-bottom: 2px solid #ff3366;; }
+#main > div > div > div.col-xs-12.col-sm-4.col-md-4.col-lg-4 > p.h3::after {  background-color: #00b7f1; }
+#main > div > div > div.col-xs-12.col-sm-8.col-md-8.col-lg-8 {  border-right: 2px dotted gray;}
+#main > div > div > div.col-xs-12.col-sm-4.col-md-4.col-lg-4 > div > div.col-xs-8.col-sm-8.col-md-8.col-lg-8 > p > a {
+    text-decoration: none;
+    color: #00b7f1;
+}
+#main > div > div > div.col-xs-12.col-sm-4.col-md-4.col-lg-4 > div > div.col-xs-8.col-sm-8.col-md-8.col-lg-8 > p > a:hover {
+    text-decoration: none;
+    color: #4d186a;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+footer {
+    background-size: cover;
+    color: rgba(255, 217, 202, 0.58);
+    background: #3aaca4 linear-gradient(rgba(2, 2, 0, 0.67), rgba(180, 176, 180, 0.66)) ,url(../images/FBG.jpg) fixed;
+    padding: 20px 0;
+}
+body > footer > div > div > div:nth-child(2) > p > a > i {
+    color: white;
+    font-size: 30px;
+    padding: 0 10px 0 0;
+}
+body > footer > div > div > div:nth-child(1) > p:nth-child(3) > a > i {
+    border: 2px solid #00b7f1;
+    color: #ffffff;
+}
+body > footer > div > div > div > p.h2::after { background-color: #00b7f1; }
+
+#main > div > div > div.col-xs-12.col-sm-8.col-md-8.col-lg-8 > div > p:nth-child(1) > a > i {
+    color: #13DBD4;
+    background-color: transparent;
+    padding: 0;
+    font-size: 51px;
+    margin-top: 54px;
+}
+
+#main > div > div > div.col-xs-12.col-sm-8.col-md-8.col-lg-8 > div > p.h2.text-center {
+    color: cadetblue;
+    font-size: 21px;
+}
+
+

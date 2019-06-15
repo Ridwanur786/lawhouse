@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c94ad431-f365-4c57-955b-5066e84b8d77" name="PHP 7.1 on XAMPP" url="http://meridwan.home">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\project" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

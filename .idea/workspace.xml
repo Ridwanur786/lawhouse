@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="396aae2e-42ce-4ba1-becd-752dcb8f7ea4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/disqus.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>google</find>
+      <find>spam</find>
+      <find>.html</find>
+      <find>error</find>
+      <find>example</find>
+      <find>437</find>
+      <find>normalizeSpaces</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>span</replace>
+      <replace>.php</replace>
+    </replaceStrings>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="composer dump-autoload" />
+      <command text="composer dump update" />
+      <command text="composer dump-autoload" />
+      <command text="composer install" />
+      <command text="composer dump update" />
+      <command text="composer dump-update" />
+      <command text="composer update" />
+      <command text="composer dump autolaod" />
+      <command text="composer dump-autoload" />
+      <command text="composer update" />
+      <command text="composer dump-autoload" />
+      <command text="composer dump -autoload" />
+      <command text="composer install" />
+    </commandsHistory>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/scroll.js" />
+        <option value="$PROJECT_DIR$/scripts/js.php" />
+        <option value="$PROJECT_DIR$/Template/formInput.php" />
+        <option value="$PROJECT_DIR$/js/disqus.js" />
+        <option value="$PROJECT_DIR$/Inc/sidebar.php" />
+        <option value="$PROJECT_DIR$/scripts/meta.php" />
+        <option value="$PROJECT_DIR$/js/ajax.js" />
+        <option value="$PROJECT_DIR$/js/btn.js" />
+        <option value="$PROJECT_DIR$/demo_disqus.php" />
+        <option value="$PROJECT_DIR$/js/maps.js" />
+        <option value="$PROJECT_DIR$/scripts/demo.php" />
+        <option value="$PROJECT_DIR$/Template/page.php" />
+        <option value="$PROJECT_DIR$/master-comments-system-master/comments.class.php" />
+        <option value="$PROJECT_DIR$/Comment-System-Using-PHP-and-MySQLi-master/db.php" />
+        <option value="$PROJECT_DIR$/Comment-System-Using-PHP-and-MySQLi-master/editcomment.php" />
+        <option value="$PROJECT_DIR$/Comment-System-Using-PHP-and-MySQLi-master/index.php" />
+        <option value="$PROJECT_DIR$/Comment-System-Using-PHP-and-MySQLi-master/comments.php" />
+        <option value="$PROJECT_DIR$/master-comments-system-master/examples.php" />
+        <option value="$PROJECT_DIR$/scripts/count.php" />
+        <option value="$PROJECT_DIR$/random.php" />
+        <option value="$PROJECT_DIR$/ajaxResponse.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/ajax/index.html" />
+        <option value="$PROJECT_DIR$/ajax/ajaxResponse.js" />
+        <option value="$PROJECT_DIR$/comment-system-with-ajax-php-mysql/comments.php" />
+        <option value="$PROJECT_DIR$/Template/Template.php" />
+        <option value="$PROJECT_DIR$/ajax/random.php" />
+        <option value="$PROJECT_DIR$/ajax/ajaxReq.html" />
+        <option value="$PROJECT_DIR$/ajax/ajaxRq.js" />
+        <option value="$PROJECT_DIR$/ajax/band.php" />
+        <option value="$PROJECT_DIR$/jquery-comments-master/js/jquery-comments.js" />
+        <option value="$PROJECT_DIR$/theme/default.css" />
+        <option value="$PROJECT_DIR$/comments-system-using-php-and-ajax/comment-add.php" />
+        <option value="$PROJECT_DIR$/comments-system-using-php-and-ajax/comment-list.php" />
+        <option value="$PROJECT_DIR$/comments-system-using-php-and-ajax/index.php" />
+        <option value="$PROJECT_DIR$/comment-system-with-ajax-php-mysql/js/comments.js" />
+        <option value="$PROJECT_DIR$/comment-system-with-ajax-php-mysql/show_comments.php" />
+        <option value="$PROJECT_DIR$/comments-system-using-php-and-ajax/db.php" />
+        <option value="$PROJECT_DIR$/comment-system-with-ajax-php-mysql/db_connect.php" />
+        <option value="$PROJECT_DIR$/lib/Database.php" />
+        <option value="$PROJECT_DIR$/Inc/footer.php" />
+        <option value="$PROJECT_DIR$/Template/contact.php" />
+        <option value="$PROJECT_DIR$/Inc/header.php" />
+        <option value="$PROJECT_DIR$/scripts/css.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/scripts/comment.php" />
+        <option value="$PROJECT_DIR$/Template/index.php" />
+        <option value="$PROJECT_DIR$/scripts/disqus.php" />
+        <option value="$PROJECT_DIR$/js/comment.js" />
+        <option value="$PROJECT_DIR$/scripts/disqus_template.php" />
+        <option value="$PROJECT_DIR$/Template/Excellent.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="y" value="35" />
+    <option name="width" value="683" />
+    <option name="height" value="693" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="Inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\project\css\fontawesome-free-5.6.3-web\css" />
+      <recent name="C:\xampp\htdocs\project\ajax" />
+      <recent name="C:\xampp\htdocs\project\Inc" />
+      <recent name="C:\xampp\htdocs\project\scripts" />
+      <recent name="C:\xampp\htdocs\project\Template" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\project\config" />
+      <recent name="C:\xampp\htdocs\project\fonts" />
+      <recent name="C:\xampp\htdocs\project\lib" />
+      <recent name="C:\xampp\htdocs\project\helpers" />
+      <recent name="C:\xampp\htdocs\project\Dashboard\admin\js\tiny-mce\plugins\table\langs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396aae2e-42ce-4ba1-becd-752dcb8f7ea4" name="Default" comment="" />
+      <created>1520772684793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520772684793</updated>
+      <workItem from="1520772688361" duration="12016000" />
+      <workItem from="1520824398939" duration="10730000" />
+      <workItem from="1521008711246" duration="9715000" />
+      <workItem from="1521084952783" duration="9429000" />
+      <workItem from="1521112435850" duration="747000" />
+      <workItem from="1521174499312" duration="7090000" />
+      <workItem from="1521280495410" duration="373000" />
+      <workItem from="2545642648463" duration="1105000" />
+      <workItem from="1521351537571" duration="10604000" />
+      <workItem from="1521561596783" duration="4760000" />
+      <workItem from="1521694952909" duration="4931000" />
+      <workItem from="1521701166959" duration="6805000" />
+      <workItem from="1521777217447" duration="10097000" />
+      <workItem from="1521880045412" duration="5511000" />
+      <workItem from="1521952932083" duration="10934000" />
+      <workItem from="1522044298729" duration="643000" />
+      <workItem from="1522383239112" duration="8753000" />
+      <workItem from="1522428536067" duration="3858000" />
+      <workItem from="1522513920851" duration="289000" />
+      <workItem from="1522514681574" duration="2029000" />
+      <workItem from="1522517798622" duration="1279000" />
+      <workItem from="1522591796722" duration="8605000" />
+      <workItem from="1522864729929" duration="2870000" />
+      <workItem from="1522908476000" duration="6167000" />
+      <workItem from="1522933303793" duration="10392000" />
+      <workItem from="1523029591065" duration="1795000" />
+      <workItem from="1523033633813" duration="1451000" />
+      <workItem from="1523117856795" duration="1060000" />
+      <workItem from="1523288037854" duration="3178000" />
+      <workItem from="1523373123516" duration="2760000" />
+      <workItem from="1523461278458" duration="16738000" />
+      <workItem from="1523527946268" duration="7878000" />
+      <workItem from="1523630710699" duration="707000" />
+      <workItem from="1523635027398" duration="13546000" />
+      <workItem from="1523713321266" duration="6222000" />
+      <workItem from="1523731315549" duration="595000" />
+      <workItem from="1523809388220" duration="597000" />
+      <workItem from="1523892145580" duration="8142000" />
+      <workItem from="1523978901390" duration="618000" />
+      <workItem from="1523979601646" duration="11000" />
+      <workItem from="1523980625982" duration="7303000" />
+      <workItem from="1524072258801" duration="1634000" />
+      <workItem from="1524119108208" duration="4454000" />
+      <workItem from="1524143462894" duration="2166000" />
+      <workItem from="1524203234142" duration="13387000" />
+      <workItem from="1524239159209" duration="5713000" />
+      <workItem from="1524323856115" duration="5877000" />
+      <workItem from="1524407587364" duration="7451000" />
+      <workItem from="1524542441913" duration="1273000" />
+      <workItem from="1524544577537" duration="16000000" />
+      <workItem from="1524626580906" duration="6304000" />
+      <workItem from="1524802459395" duration="6364000" />
+      <workItem from="1524836969864" duration="19000" />
+      <workItem from="1524837012693" duration="3337000" />
+      <workItem from="1525024973512" duration="1316000" />
+      <workItem from="1525155434542" duration="8432000" />
+      <workItem from="1525221266063" duration="986000" />
+      <workItem from="1525252968356" duration="12731000" />
+      <workItem from="1525317568753" duration="7349000" />
+      <workItem from="1525338789176" duration="8857000" />
+      <workItem from="1525446088635" duration="6803000" />
+      <workItem from="1525542930466" duration="2239000" />
+      <workItem from="1525545463422" duration="418000" />
+      <workItem from="1525622629520" duration="5966000" />
+      <workItem from="1525702556621" duration="3342000" />
+      <workItem from="1525957498086" duration="6238000" />
+      <workItem from="1526054270792" duration="1166000" />
+      <workItem from="1526222457983" duration="4652000" />
+      <workItem from="1526353833198" duration="8834000" />
+      <workItem from="1526395872802" duration="4297000" />
+      <workItem from="1526489590248" duration="3610000" />
+      <workItem from="1526495336672" duration="1554000" />
+      <workItem from="1526649445107" duration="2761000" />
+      <workItem from="1526748611853" duration="602000" />
+      <workItem from="1526961947926" duration="8386000" />
+      <workItem from="1527052401238" duration="1766000" />
+      <workItem from="1527391859479" duration="8810000" />
+      <workItem from="1527481738341" duration="3411000" />
+      <workItem from="1527560689119" duration="12556000" />
+      <workItem from="1527646838330" duration="6747000" />
+      <workItem from="1527928831418" duration="1821000" />
+      <workItem from="1527998851082" duration="8851000" />
+      <workItem from="1528171335138" duration="3552000" />
+      <workItem from="1528258247104" duration="8831000" />
+      <workItem from="1528339180887" duration="17326000" />
+      <workItem from="1528429046822" duration="4818000" />
+      <workItem from="1528597343234" duration="19062000" />
+      <workItem from="1528769924252" duration="18543000" />
+      <workItem from="1529464518109" duration="8338000" />
+      <workItem from="1529555663032" duration="6617000" />
+      <workItem from="1529812999569" duration="14730000" />
+      <workItem from="1530005382495" duration="1191000" />
+      <workItem from="1530157476319" duration="9912000" />
+      <workItem from="1530244379651" duration="2857000" />
+      <workItem from="1530249778600" duration="5138000" />
+      <workItem from="1530350387836" duration="2532000" />
+      <workItem from="1530440905750" duration="3576000" />
+      <workItem from="1530502643374" duration="10809000" />
+      <workItem from="1530588665585" duration="16497000" />
+      <workItem from="1530684402869" duration="8280000" />
+      <workItem from="1530854578360" duration="4038000" />
+      <workItem from="1530930639779" duration="6345000" />
+      <workItem from="1530944481509" duration="4063000" />
+      <workItem from="1531302961434" duration="908000" />
+      <workItem from="1531459652206" duration="1798000" />
+      <workItem from="1531542884162" duration="16023000" />
+      <workItem from="1531621844668" duration="9836000" />
+      <workItem from="1531653557095" duration="820000" />
+      <workItem from="1531720763710" duration="6274000" />
+      <workItem from="1531798387441" duration="15509000" />
+      <workItem from="1532053363063" duration="18115000" />
+      <workItem from="1532150088509" duration="12738000" />
+      <workItem from="1532230313706" duration="14979000" />
+      <workItem from="1532316017562" duration="6294000" />
+      <workItem from="1532421569037" duration="6456000" />
+      <workItem from="1532489082067" duration="20770000" />
+      <workItem from="1532686802297" duration="2750000" />
+      <workItem from="1532744622945" duration="591000" />
+      <workItem from="1533011831708" duration="8197000" />
+      <workItem from="1533113572334" duration="4688000" />
+      <workItem from="1533266602712" duration="5434000" />
+      <workItem from="1534562740296" duration="596000" />
+      <workItem from="1534673055486" duration="593000" />
+      <workItem from="1535942985240" duration="1319000" />
+      <workItem from="1536043216921" duration="6890000" />
+      <workItem from="1536379594880" duration="2439000" />
+      <workItem from="1536481891865" duration="1685000" />
+      <workItem from="1536645383451" duration="592000" />
+      <workItem from="1536989721463" duration="13141000" />
+      <workItem from="1537080713420" duration="7272000" />
+      <workItem from="1537244037221" duration="590000" />
+      <workItem from="1537244697751" duration="2180000" />
+      <workItem from="1537338382321" duration="637000" />
+      <workItem from="1537510686545" duration="1176000" />
+      <workItem from="1537597844747" duration="7146000" />
+      <workItem from="1537672816217" duration="12837000" />
+      <workItem from="1537760061714" duration="10789000" />
+      <workItem from="1537863711408" duration="1387000" />
+      <workItem from="1537933078891" duration="16700000" />
+      <workItem from="1538107473746" duration="17133000" />
+      <workItem from="1538210118910" duration="1870000" />
+      <workItem from="1538298749256" duration="1198000" />
+      <workItem from="1545207554508" duration="2833000" />
+      <workItem from="1545557536360" duration="5592000" />
+      <workItem from="1545638767195" duration="22241000" />
+      <workItem from="1545976719324" duration="1203000" />
+      <workItem from="1546050836583" duration="5690000" />
+      <workItem from="1546234887566" duration="3202000" />
+      <workItem from="1546241918087" duration="9871000" />
+      <workItem from="1546315966033" duration="10315000" />
+      <workItem from="1546423827584" duration="1420000" />
+      <workItem from="1546510705117" duration="3099000" />
+      <workItem from="1546660782336" duration="116000" />
+      <workItem from="1546660936302" duration="8010000" />
+      <workItem from="1546835730296" duration="8807000" />
+      <workItem from="1546932846946" duration="2479000" />
+      <workItem from="1547001985774" duration="11561000" />
+      <workItem from="1547110748378" duration="588000" />
+      <workItem from="1547187202880" duration="16286000" />
+      <workItem from="1547438135588" duration="4894000" />
+      <workItem from="1547519709790" duration="7891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1004899000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32733223" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32733223" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="11" weight="0.32698414" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3267974" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ajax/ajaxRq.js" />
+    <entry file="file://$PROJECT_DIR$/ajax/ajaxResponse.js" />
+    <entry file="file://$PROJECT_DIR$/ajax/random.php" />
+    <entry file="file://$PROJECT_DIR$/Template/formInput.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/band.php" />
+    <entry file="file://$PROJECT_DIR$/js/maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="28" column="73" lean-forward="true" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-2.2.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-comments-master/js/jquery-comments.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-comments-master/tests/lib/jasmine-2.2.0/jasmine-html.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2193">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-comments-master/js/jquery-comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4913">
+          <caret line="295" column="26" selection-start-line="295" selection-start-column="26" selection-end-line="295" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-comments-master/data/comments-data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-comments-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ajax_form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="63" lean-forward="true" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments-system-using-php-and-ajax/tbl_comment.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments-system-using-php-and-ajax/comment-add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments-system-using-php-and-ajax/comment-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment-system-with-ajax-php-mysql/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments-system-using-php-and-ajax/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="104" column="27" lean-forward="true" selection-start-line="104" selection-start-column="27" selection-end-line="104" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments-system-using-php-and-ajax/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment-system-with-ajax-php-mysql/db_connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment-system-with-ajax-php-mysql/js/comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment-system-with-ajax-php-mysql/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inc/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="94" column="34" lean-forward="true" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dashboard/admin/replay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/Format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment-system-with-ajax-php-mysql/show_comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="108" lean-forward="true" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/meta.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="369" column="26" selection-start-line="369" selection-start-column="26" selection-end-line="369" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inc/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dashboard/admin/postlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inc/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dashboard/admin/inbox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dashboard/admin/Inc/adminHeader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="68" column="17" lean-forward="true" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dashboard/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dashboard/admin/postDelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/disqus_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="92" column="90" lean-forward="true" selection-start-line="92" selection-start-column="90" selection-end-line="92" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/Excellent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="98" column="18" lean-forward="true" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/comment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="67" column="45" lean-forward="true" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/disqus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

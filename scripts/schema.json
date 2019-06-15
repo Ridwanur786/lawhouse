@@ -1,0 +1,37 @@
+ {
+  "@context" : "http://schema.org",
+  "@type" : "Article",
+  "image" : "https://www.greenwhereabouts.com/Portals/0/EasyDNNNews/369/730730p1095EDNmainimg-71hB0TV4BmL._SL1000_.jpg",
+  "articleSection" : "AeroGarden Miracle-Gro... EUR 129,95",
+  "articleBody" : "on",
+  "url" : "https://www.greenwhereabouts.com/it-it/",
+  "publisher" : {
+    "@type" : "Organization",
+    "name" : "Green Whereabouts"
+  },
+  "aggregateRating" : {
+    "@type" : "AggregateRating",
+    "ratingValue" : "5.0"
+  }
+}, {
+  "@context" : "http://schema.org",
+  "@type" : "Article",
+  "name" : "Miracle-Gro Harvest Hydroponic Greenhouse with Aromatic Herbs Seeds",
+  "author" : {
+    "@type" : "Person",
+    "name" : "Green Whereabouts"
+  },
+  "datePublished" : "Please insert valid ISO 8601 date/time here. Examples: 2015-07-27 or 2015-07-27T15:30",
+  "image" : "https://images-eu.ssl-images-amazon.com/images/I/61246xYT2RL._AC_AC_SR98,95_.jpg",
+  "articleSection" : "AeroGarden Miracle-Gro... EUR 129,95",
+  "articleBody" : "on",
+  "url" : "https://www.greenwhereabouts.com/it-it/",
+  "publisher" : {
+    "@type" : "Organization",
+    "name" : "Green Whereabouts"
+  },
+  "aggregateRating" : {
+    "@type" : "AggregateRating",
+    "ratingValue" : "5.0"
+  }
+} 
